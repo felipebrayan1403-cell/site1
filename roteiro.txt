@@ -1,0 +1,51 @@
+## Passo a Passo para Montar um PC
+
+### Passo 1 – Prepare o Ambiente
+
+Antes de começar, escolha uma superfície limpa, organizada e bem iluminada. Tenha em mãos todas as peças e ferramentas necessárias para a montagem.
+
+### Passo 2 – Instale o Processador
+
+Abra o soquete da placa-mãe e encaixe o processador com cuidado, respeitando as marcações de alinhamento para evitar danos.
+
+### Passo 3 – Instale o Cooler
+
+Aplique pasta térmica, caso necessário, e fixe o cooler sobre o processador. Em seguida, conecte o cabo do cooler à placa-mãe.
+
+### Passo 4 – Instale a Memória RAM
+
+Insira os módulos de memória RAM nos slots indicados pela placa-mãe até ouvir o clique das travas.
+
+### Passo 5 – Instale o Armazenamento
+
+Instale o SSD ou HD de acordo com o modelo utilizado e realize as conexões necessárias.
+
+### Passo 6 – Monte a Placa-Mãe no Gabinete
+
+Posicione a placa-mãe dentro do gabinete e fixe-a utilizando os parafusos apropriados.
+
+### Passo 7 – Instale a Fonte de Alimentação
+
+Fixe a fonte no gabinete e organize os cabos para facilitar as conexões dos componentes.
+
+### Passo 8 – Instale a Placa de Vídeo
+
+Caso o computador utilize uma placa de vídeo dedicada, encaixe-a no slot PCI Express e conecte os cabos de alimentação necessários.
+
+### Passo 9 – Conecte os Cabos
+
+Conecte os cabos da fonte, do armazenamento, das ventoinhas e do painel frontal do gabinete seguindo o manual da placa-mãe.
+
+### Passo 10 – Verifique a Montagem
+
+Revise todas as conexões e certifique-se de que nenhum cabo ou componente está solto.
+
+### Passo 11 – Ligue o Computador
+
+Conecte monitor, teclado e mouse. Em seguida, ligue o computador para verificar se todos os componentes estão funcionando corretamente.
+
+### Passo 12 – Instale o Sistema Operacional
+
+Após confirmar que a montagem foi concluída com sucesso, instale o sistema operacional e os drivers necessários.
+
+**Parabéns! Seu computador está pronto para uso.** 💻🚀🔧
